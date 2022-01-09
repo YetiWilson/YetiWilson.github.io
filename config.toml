@@ -1,0 +1,4 @@
+baseURL = 'https://YetiWilson.github.io/'
+languageCode = 'en-us'
+title = 'Building in Seattle'
+theme = "ananke"
